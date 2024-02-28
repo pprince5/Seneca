@@ -1,0 +1,26 @@
+///////////////////////////////////////////////////////////////////////////
+
+                              Reflection
+                             Workshop - #1
+Full Name  : prince prince
+Student ID#: 145685228
+Email      : pprince5@myseneca.ca
+Section    : Z
+
+Authenticity Declaration:
+
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+////////////////////////////////////////////////////////////////////////
+                                                          Answers
+1) No, i do not have previous programing experience and as a beginner C language and this course is a little complicated as, i have to remember commands
+and there are errors for even a small mistake which are sometimes hard to find, but, ofcourse, i am sure that soon i will be quite good with this.
+
+2) well, according to me, COmpilimg process of turning a C text file into an executable program is a organised way, it needs every character and sentence to be
+in a proper syntax and proper text-case. You need to be very careful about what you are typing, because a single character or sign at a wrong 
+place can ruin the whole code.
+
+3) I hope to achieve a good amount of knowledge about C language. I expect myself to be a good programer in C language which will help me achieve
+ my goal to become a back-end developer. 
+
